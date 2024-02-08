@@ -1,0 +1,151 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AzureNamingTool
+build_property.RootNamespace = AzureNamingTool
+build_property.ProjectDir = C:\Users\JoaoBaptista\source\repos\cpt-naming-pattern-app\src\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\JoaoBaptista\source\repos\cpt-naming-pattern-app\src
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/General/AnchorNavigation.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHZW5lcmFsXEFuY2hvck5hdmlnYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/General/ExternalContent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHZW5lcmFsXEV4dGVybmFsQ29udGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/General/LatestNews.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHZW5lcmFsXExhdGVzdE5ld3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Instructions/AdminConfigurationInstructions.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbnN0cnVjdGlvbnNcQWRtaW5Db25maWd1cmF0aW9uSW5zdHJ1Y3Rpb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Instructions/AdminLogInstructions.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbnN0cnVjdGlvbnNcQWRtaW5Mb2dJbnN0cnVjdGlvbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Instructions/AdminPasswordInstructions.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbnN0cnVjdGlvbnNcQWRtaW5QYXNzd29yZEluc3RydWN0aW9ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Instructions/ConfigurationInstructions.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbnN0cnVjdGlvbnNcQ29uZmlndXJhdGlvbkluc3RydWN0aW9ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Instructions/GeneratedNamesLogInstructions.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbnN0cnVjdGlvbnNcR2VuZXJhdGVkTmFtZXNMb2dJbnN0cnVjdGlvbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Instructions/GenerateInstructions.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbnN0cnVjdGlvbnNcR2VuZXJhdGVJbnN0cnVjdGlvbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Instructions/ReferenceInstructions.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbnN0cnVjdGlvbnNcUmVmZXJlbmNlSW5zdHJ1Y3Rpb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Modals/AddModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2RhbHNcQWRkTW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Modals/ConfirmationModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2RhbHNcQ29uZmlybWF0aW9uTW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Modals/EditModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2RhbHNcRWRpdE1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Modals/InformationModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2RhbHNcSW5mb3JtYXRpb25Nb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Modals/MultiTypeSelectModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2RhbHNcTXVsdGlUeXBlU2VsZWN0TW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Modals/PasswordModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2RhbHNcUGFzc3dvcmRNb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Modals/WorkingModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2RhbHNcV29ya2luZ01vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Pages/404.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1w0MDQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Pages/Admin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Pages/AdminLog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pbkxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Pages/Configuration.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb25maWd1cmF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Pages/Generate.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHZW5lcmF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Pages/GeneratedNamesLog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHZW5lcmF0ZWROYW1lc0xvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Pages/Instructions.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnN0cnVjdGlvbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Pages/Reference.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZWZlcmVuY2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/General/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHZW5lcmFsXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3raz7b8phj
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-v1183jxl6q
+
+[C:/Users/JoaoBaptista/source/repos/cpt-naming-pattern-app/src/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-79un49x8f9

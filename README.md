@@ -1,20 +1,43 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Cooptelco Azure Devops Naming Convention
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+## Introduction
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+This is a web tool for naming convention for Azure Devops, for Cooptelco company.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## Getting Started
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+### Prerequisites
+
+- [Node.js](https://nodejs.org/en/) - JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Yarn](https://yarnpkg.com/en/) - Fast, reliable, and secure dependency management.
+
+### Installing
+
+```bash
+# Clone this repository
+git clone
+
+# Go into the repository
+cd cooptelco-azure-devops-naming-convention
+
+# Install dependencies
+yarn install
+
+# Run the app
+yarn start
+```
+
+## Built With
+
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
+- [Material-UI](https://material-ui.com/) - React components for faster and easier web development.
+- [React Router](https://reacttraining.com/react-router/) - Declarative routing for React.
+- [React Router DOM](https://reacttraining.com/react-router/) - DOM bindings for React Router.
+
+## Authors
+
+- **[Cooptelco Architecture Team](https:dev.azure.com/cooptelco/)** - *Initial work* - [Cooptelco](https://dev.azure.com/cooptelco/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
